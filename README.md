@@ -1,2 +1,3 @@
 # App_Service
-A repository containing bicep infrastructure as code files
+
+A repository containing Azure ARM infrastructure as code files
